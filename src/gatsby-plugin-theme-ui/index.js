@@ -1,17 +1,24 @@
-import codeTheme from "@theme-ui/prism/presets/night-owl-light.json";
+import codeTheme from "@theme-ui/prism/presets/vs-dark.json";
 import baseTheme from "@pauliescanlon/gatsby-theme-terminal/src/gatsby-plugin-theme-ui";
 
 export default {
   ...baseTheme,
   colors: {
     ...baseTheme.colors,
-    text: "#222222",
-    muted: "#666666",
-    primary: "#FF4081",
-    secondary: "#03A9F4",
-    success: "#FFEB3B",
-    background: "#ffffff",
-    surface: "#f3f3f3"
+    text: "#ebdbb2",
+    muted: "#a89984",
+    primary: "#cc241d",
+    secondary: "#98971a",
+    success: "#8ec07c",
+    background: "#282828",
+    surface: "#1d2021"
+  },
+  codeBlock: {
+    ...codeTheme,
+    backgroundColor: 'surface',
+    // special case
+    fontSize: '13px',
+    p: 1,
   },
   styles: {
     ...baseTheme.styles,
