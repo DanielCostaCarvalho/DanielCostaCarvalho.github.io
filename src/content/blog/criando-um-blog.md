@@ -1,7 +1,7 @@
 ---
 title: 'O Início: Criando o Site'
 description: 'As explicações e as inspirações para a criação desse site pessoal'
-pubDate: 'Jul 21 2026'
+pubDate: 'Jun 21 2026'
 thumbnail: 'Getting Started'
 ---
 # Índice

@@ -62,7 +62,8 @@ b {
 	font-weight: 700;
 }
 a {
-	color: var(--accent);
+	color: var(--black);
+	font-weight: bold;
 }
 a:hover {
 	color: var(--accent);
