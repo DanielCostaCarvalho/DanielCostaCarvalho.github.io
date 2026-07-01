@@ -13,29 +13,30 @@ thumbnail: 'Getting Started'
 
 ## Motivação
 Esse site teve como inspiração primária um movimento online de "indie web" com 
-comunidades que se agrupam em sites como [neocities](https://neocities.org/) e 
-[nekoweb](https://nekoweb.org/). Esse movimento, com a ideia de programar um 
+comunidades que se agrupam em sites como <a href="https://neocities.org/" 
+target="_blank">neocities</a> e <a href="https://nekoweb.org/" target="_blank">
+nekoweb</a>. Esse movimento, com a ideia de programar um 
 site pessoal por pura diversão, motivou a fazer esse projeto.
 
 ## Design
 Apesar de ter esse movimento como inspiração, boa parte dele se foca em uma
 estática dos anos 90 e 2000 e essa foi a ideia inicial: fazer um site inspirado
 em sites mais antigos, como por exemplo o site do 
-[slackware](http://www.slackware.com/) que até os dias de hoje (22/06/2026) é
-feito usando tabelas para organizar a disposição do conteúdo na página. Porém,
-como a ideia principal é fazer algo pessoal e por diversão ~e eu não me divirto
-organizando conteúdo com tabela~, resolvi seguir um estilo que se encaixa mais
-com a minha personalidade e fazer um site buscando ser o mais simples possível,
-sem ser muito espalhafatoso, mas com uma boa usabilidade, usando também um CSS
-moderno.
+<a href="http://www.slackware.com/" target="_blank">slackware</a> que até os 
+dias de hoje (22/06/2026) é feito usando tabelas para organizar a disposição do 
+conteúdo na página. Porém, como a ideia principal é fazer algo pessoal e por 
+diversão ~e eu não me divirto organizando conteúdo com tabela~, resolvi seguir 
+um estilo que se encaixa mais com a minha personalidade e fazer um site buscando
+ser o mais simples possível, sem ser muito espalhafatoso, mas com uma boa 
+usabilidade, usando também um CSS moderno.
 
 ## Tecnologias
 Seguindo a mesma filosofia por trás das escolhas visuais, as tecnologias 
 escolhidas visam, em primeiro lugar, a simplicidade. Por isso, tudo foi
-desenvolvido usando HTML e CSS utilizando do [Astro](https://astro.build/) para
-separar a parte visual e do conteúdo, que é escrito por fora via
-Markdown, e depois o Astro os une novamente no build para gerar páginas
-estáticas que são mais facilmente servidas e indexadas.
+desenvolvido usando HTML e CSS utilizando do <a href="https://astro.build/" 
+target="_blank">Astro</a> para separar a parte visual e do conteúdo, que é 
+escrito por fora via Markdown, e depois o Astro os une novamente no build para 
+gerar páginas estáticas que são mais facilmente servidas e indexadas.
 
 ## Relação Pessoal
 Sou uma pessoa que não gosta muito de me expor, tanto na internet quanto 
